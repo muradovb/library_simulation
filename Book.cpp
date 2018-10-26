@@ -1,6 +1,6 @@
 //
 //  Book.cpp
-//  homework1_201
+//  
 //
 //  Created by Bayram Muradov on 23/03/2017.
 //  Copyright © 2017 Bayram Muradov. All rights reserved.
